@@ -5,3 +5,4 @@
 - 📫 Reach me over here.
 
 Change the github.com...(blablabla) to github.dev...(blablabla) while you in repo and you can edit in the browser with Visual Studio Code.
+It is actually works on mobile as well . 
