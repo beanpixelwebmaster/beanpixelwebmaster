@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @beanpixelwebmaster
+- 👋 Hi
 - 👀 I’m interested in frontend and backend
-- 🌱 I’m currently learning react and python
+- 🌱 I’m learning
 - 💞️ I’m looking to collaborate on interesting projects that can solve real problems and help people
 - 📫 Reach me over here.
 
